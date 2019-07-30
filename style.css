@@ -351,7 +351,7 @@ p {
 }
 
 .menu_area #nav .nav-link {
-  color: #fff;
+  color: #282828;
   display: block;
   font-size: 16px;
   font-weight: 500;
@@ -362,8 +362,8 @@ p {
   padding: 35px 15px;
 }
 
-.menu_area nav ul li > a:hover {
-  color: #fb397d;
+.menu_area #nav .nav-link:hover {
+  color: #fff;
 }
 
 .sing-up-button {
@@ -394,7 +394,7 @@ p {
 /* stcicky css */
 
 .header_area.sticky {
-  background-color: #f0bf00;
+  background-color: #ffd500;
   -webkit-box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
   height: 70px;
