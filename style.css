@@ -459,6 +459,11 @@ p {
   z-index: 3;
 }
 
+.wellcome-heading > p {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
 .get-start-area .email {
   background: #9572e8;
   height: 50px;
