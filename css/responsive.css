@@ -29,6 +29,13 @@
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
+  .special-img {
+    width: 45%;
+    margin-bottom: 20px;
+  }
+  .margin-top {
+    text-align: center;
+  }
   .logo-topo {
     width: 45px;
     margin-top: 2px;
